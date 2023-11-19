@@ -25,7 +25,7 @@ Diving even deeper, we dissected profit trends across three product categories�
 
 ### Phones: The good news – a gradual increase in profit from July 31, 2016, to October 16, 2016.
 
-# strategic business recommendations 
+# Strategic Business Recommendations 
 Based on the comprehensive analysis of the Sales Performance Dashboard, here are some strategic business recommendations to enhance profitability and overall performance:
 
 ## 1️⃣ Optimize Product Mix:
